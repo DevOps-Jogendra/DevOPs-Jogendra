@@ -60,7 +60,9 @@ If you're hiring or know someone who's hiring, I’d love to connect. I’m open
 ---
 
 ## 📈 **GitHub Stats**
-![Jogendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jogendra-ghodke&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
+![Jogendra github stats](https://github-readme-stats.vercel.app/api?username=DevOps-Jogendra)
+
+
 
 ---
 
